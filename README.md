@@ -1,4 +1,4 @@
-# Credit-Score-Classification
+# Credit-Score-Classification-With-Machine-Learning
 Welcome to my Credit Score Classification project! In this project, I demonstrate my expertise in building and evaluating machine learning models. The goal of this project is to predict the credit score of an individual with high accuracy, based on their financial history and personal information.
 
 The project is implemented in a Jupyter Notebook, using the Python programming language and several popular machine learning libraries such as NumPy, Pandas, Matplotlib, and Seaborn. The data used in this project is a simulated dataset of individuals and their credit scores, which I use to train and evaluate several different machine learning models.
